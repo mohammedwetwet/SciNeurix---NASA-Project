@@ -1,0 +1,4 @@
+benchmark,expected_n,retrieved_n,true_positive,false_positive,false_negative,precision,recall,f1,investigation_correct
+BASS-II PMMA,41,41,41,0,0,1.0,1.0,1.0,True
+FLEX Methanol,157,157,157,0,0,1.0,1.0,1.0,True
+SPICE Ethylene,47,47,47,0,0,1.0,1.0,1.0,True

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
+<defs><radialGradient id="g" cx="72%" cy="42%" r="70%"><stop stop-color="#1e6b83" stop-opacity=".65"/><stop offset="1" stop-color="#081526" stop-opacity="0"/></radialGradient><linearGradient id="f" x1="0" x2="1"><stop stop-color="#f6a44b"/><stop offset="1" stop-color="#f05d3e"/></linearGradient></defs>
+<rect width="1200" height="420" rx="28" fill="#071525"/><rect width="1200" height="420" rx="28" fill="url(#g)"/>
+<g fill="none" stroke="#6fa8c2" stroke-opacity=".35"><circle cx="910" cy="205" r="145"/><circle cx="910" cy="205" r="105"/><circle cx="910" cy="205" r="65"/><path d="M740 205h340M910 35v340M790 85l240 240M1030 85L790 325"/></g>
+<g stroke="#8ed5e5" stroke-width="2" fill="#102f48"><circle cx="910" cy="60" r="13"/><circle cx="1055" cy="205" r="13"/><circle cx="910" cy="350" r="13"/><circle cx="765" cy="205" r="13"/><circle cx="1012" cy="103" r="10"/><circle cx="808" cy="308" r="10"/></g>
+<path d="M900 265c-35-43 6-76 6-116 36 30 55 63 35 95 26-13 37-37 31-62 43 43 34 104-11 127-41 21-91 0-99-38-5-25 9-47 29-62-3 23 1 40 9 56z" fill="url(#f)"/>
+<text x="76" y="150" fill="#f4f8fc" font-family="Arial,sans-serif" font-size="54" font-weight="700">SCI NEURIX</text>
+<text x="80" y="205" fill="#b9d3e2" font-family="Arial,sans-serif" font-size="25">NASA combustion research intelligence</text>
+<text x="80" y="260" fill="#8baabd" font-family="Arial,sans-serif" font-size="18">Connect experiments · Discover evidence · Explore conditions</text>
+<path d="M80 300h420" stroke="#f39b54" stroke-width="4" stroke-linecap="round"/>
+</svg>
